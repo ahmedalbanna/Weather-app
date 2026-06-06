@@ -1,0 +1,6 @@
+{
+  "name": "الطقس اليوم",
+  "description": "تطبيق ذكي ومتكامل لعرض تفاصيل الطقس، التوقعات اليومية والساعية، والمدن المفضلة مع دعم نظام تحديد المواقع (GPS) وتوصيات ذكية باللغة العربية مدعومة بالذكاء الاصطناعي (Gemini).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
